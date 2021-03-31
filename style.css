@@ -1,0 +1,73 @@
+.header {
+padding: 60px;
+text-align: center;
+background: grey;
+background: grey;
+color: white;
+font-size: 30px;
+}
+
+    
+body {
+   background-color: black;
+}
+
+
+p {
+    color: white;
+    margin-left: 21px;
+    font-size: 23px;   
+    font-family: Monospace;
+}
+
+
+h1 {
+  color: white;
+  margin-left: 20px;
+  font-family: Monospace;
+  font-size: 25px;
+}
+
+h2 {
+  color: white;
+  margin-left: 20px;
+  font-family: Monospace;
+}
+
+h3 {
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: Monospace;
+}
+
+h4 {
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: Monospace;
+} 
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; 
+}
+
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: grey;
+color: white;
+text-align: center;
+}
+
